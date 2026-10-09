@@ -14,5 +14,5 @@ version the stubs were generated from.
 ## Installation
 
 ```
-composer require --dev pinkcrab/translatepress-multilingual_stubs:3.3.6
+composer require --dev pinkcrab/translatepress-multilingual_stubs:3.3.7
 ```
