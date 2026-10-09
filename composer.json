@@ -1,0 +1,26 @@
+{
+    "name": "pinkcrab/translatepress-multilingual_stubs",
+    "description": "TranslatePress - Multilingual stubs for static analysis.",
+    "keywords": [
+        "translatepress-multilingual",
+        "wordpress",
+        "static analysis",
+        "phpstan"
+    ],
+    "homepage": "https://github.com/Pink-Crab/translatepress-multilingual_stubs",
+    "support": {
+        "source": "https://github.com/Pink-Crab/translatepress-multilingual_stubs"
+    },
+    "require": {
+        "php": ">=7.4",
+        "php-stubs/wordpress-stubs": "^3.1.0 || ^4.0 || ^5.0 || ^6.0 || ^7.0"
+    },
+    "require-dev": {
+        "php-stubs/generator": "^0.8"
+    },
+    "suggest": {
+        "szepeviktor/phpstan-wordpress": "WordPress extensions for PHPStan"
+    },
+    "minimum-stability": "stable",
+    "license": "GPL-2.0-only"
+}
